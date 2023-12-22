@@ -1,0 +1,52 @@
+[
+  {
+    "game": "Football",
+    "teams": [
+      {
+        "team_name": "Brazil",
+        "players": [
+          { "name": "Alisson", "age": 29 },
+          { "name": "Ederson", "age": 28 },
+          { "name": "Marquinhos", "age": 27 },
+          { "name": "Gabriel", "age": 24 },
+          { "name": "Thiago Silva", "age": 37 }
+        ]
+      },
+      {
+        "team_name": "Spain",
+        "players": [
+          { "name": "David de Gea", "age": 31 },
+          { "name": "Pau Torres", "age": 25 },
+          { "name": "Diego Llorente", "age": 28 },
+          { "name": "Carlos Soler", "age": 25 },
+          { "name": "Rodrigo", "age": 30 }
+        ]
+      }
+    ]
+  },
+  {
+    "game": "Cricket",
+    "teams": [
+      {
+        "team_name": "India",
+        "players": [
+          { "name": "Dhoni", "age": 40 },
+          { "name": "Tendulkar", "age": 48 },
+          { "name": "Hardik", "age": 28 },
+          { "name": "Jadeja", "age": 33 },
+          { "name": "Rahane", "age": 33 }
+        ]
+      },
+      {
+        "team_name": "Australia",
+        "players": [
+          { "name": "Maxwell", "age": 33 },
+          { "name": "Zampa", "age": 29 },
+          { "name": "Wade", "age": 34 },
+          { "name": "Carlos Soler", "age": 25 },
+          { "name": "Warner", "age": 35 }
+        ]
+      }
+    ]
+  }
+]
